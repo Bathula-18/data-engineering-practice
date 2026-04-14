@@ -1,21 +1,19 @@
-# Arithmetic Operators
+# simple calculation example
+
 a = 10
-b = 3
+b = 5
 
-print("Addition:", a + b)
-print("Subtraction:", a - b)
-print("Multiplication:", a * b)
-print("Division:", a / b)
+total = a + b
+print("Total:", total)
 
-# Comparison Operators
+difference = a - b
+print("Difference:", difference)
+
+# comparison
 print("Is a greater than b?", a > b)
-print("Is a equal to b?", a == b)
-print("Is a not equal to b?", a != b)
 
-# Logical Operators
+# logical check
 x = True
 y = False
 
 print("x AND y:", x and y)
-print("x OR y:", x or y)
-print("NOT x:", not x)
