@@ -1,4 +1,4 @@
-# simple conditional examples
+# practice of conditional statements
 
 price = 120
 
