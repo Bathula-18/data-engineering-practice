@@ -1,2 +1,18 @@
-# week1-python
-My week 1 python practice for Data Engineering
+# Week 1 Python Practice
+
+This repository contains my Week 1 preparation for Data Engineering.
+
+## Topics Covered
+- Variables and Data Types
+- Operators
+- Conditionals (if, elif, else)
+- Loops (for loop, while loop)
+- Functions
+
+## Practice Approach
+Practicing each concept with simple examples and organizing them into separate files for clarity.
+
+## Next Steps
+- CSV and JSON file handling
+- Exception handling
+- Mini project
