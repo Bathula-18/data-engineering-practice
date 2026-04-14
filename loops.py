@@ -1,3 +1,5 @@
+# practice of loops (for and while)
+
 # -------- FOR LOOP EXAMPLES --------
 
 # loop through a list
