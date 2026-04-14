@@ -1,4 +1,4 @@
-# simple calculation example
+# practice of operators
 
 a = 10
 b = 5
