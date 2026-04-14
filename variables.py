@@ -1,3 +1,5 @@
+# basic variable practice
+
 name = "Sai"
 age = 24
 city = "Texas"
