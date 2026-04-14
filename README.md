@@ -8,6 +8,7 @@ This repository contains my Week 1 preparation for Data Engineering.
 - Conditionals (if, elif, else)
 - Loops (for loop, while loop)
 - Functions
+-  Collections (list, set, dictionary)
 
 ## Practice Approach
 Practicing each concept with simple examples and organizing them into separate files for clarity.
