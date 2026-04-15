@@ -9,6 +9,7 @@ This repository contains my Week 1 preparation for Data Engineering.
 - Loops (for loop, while loop)
 - Functions
 -  Collections (list, set, dictionary)
+-  File Handling (read, write, append)
 
 ## Practice Approach
 Practicing each concept with simple examples and organizing them into separate files for clarity.
