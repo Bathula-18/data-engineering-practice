@@ -1,26 +1,9 @@
-# Week 1 Python Practice
+## Week 1 Assignment
 
-This repository contains my Week 1 preparation for Data Engineering, covering Python fundamentals and basic file handling.
+The Week 1 assignment deliverables are organized inside the `week1_assignment` folder.
 
-## Topics Covered
-- Variables and Data Types
-- Operators
-- Conditionals (if, elif, else)
-- Loops (for loop, while loop)
-- Functions
-- Collections (list, set, dictionary)
-- File Handling (read, write, append)
-- CSV (reading data)
-- JSON (writing data)
-
-## Folder Structure
-- Core Python concepts are implemented as separate `.py` files in the main directory
-- File handling, CSV, and JSON examples are organized inside the `file_handling` folder
-
-## Practice Approach
-Practiced each concept with simple and clear examples, focusing on understanding basics and organizing code properly.
-
-## Next Steps
-- CSV advanced reading (DictReader)
-- Exception handling
-- Mini project using file handling
+This includes:
+- Task 1: CSV cleaning and JSON output
+- Task 2: Schema validation and row count check
+- Task 3: Logging bad records and continuing processing
+- Mini Project: Multi-vendor CSV ingestion pipeline
