@@ -1,22 +1,10 @@
-# Week 2 SQL Practice
-
-## Source
-Practiced SQL using W3Schools.
-
-## Topics Covered
-- SELECT
-- WHERE
-- ORDER BY
-- COUNT, SUM
-- GROUP BY
-- JOIN
-
-## Files
-- practice_queries.sql → basic queries
-- joins_and_aggregation.sql → joins + aggregation
-
 ## Learning
-This week I understood:
-- how to filter data using WHERE
-- how to join two tables
-- how to calculate totals using GROUP BY
+
+This week I practiced basic SQL and got more comfortable with queries.
+
+- used WHERE to filter data based on conditions  
+- understood how JOIN works between two tables  
+- practiced GROUP BY to calculate totals  
+- used COUNT and SUM for basic reporting  
+
+Still need to practice more on writing queries faster without thinking too much.
