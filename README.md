@@ -1,21 +1,38 @@
-# Week 1 Assignment
+# Data Engineering Practice
 
-The Week 1 assignment deliverables are organized inside the `week1_assignment` folder.
+This repository contains my weekly practice and assignments as part of my Data Engineering preparation.
 
-## Includes
+---
 
-- Task 1: CSV cleaning and JSON output  
-- Task 2: Schema validation and row count check  
-- Task 3: Logging bad records and continuing processing  
-- Mini Project: Multi-vendor CSV ingestion pipeline  
+## Week 1
 
-## Note
+Covered Python basics and file handling.
 
-This repository initially contained topic-wise practice. After feedback, the assignment tasks were structured separately.
+- Variables, operators, loops, functions
+- Collections practice
+- CSV and JSON handling
 
-The mini project includes:
-- multiple vendor CSV inputs  
-- data standardization and cleaning  
-- duplicate handling  
-- logging of bad records  
-- final clean JSON output  
+### Assignment
+- CSV cleaning and JSON output
+- Schema validation and row count check
+- Logging bad records
+- Mini project: data ingestion pipeline
+
+---
+
+## Week 2
+
+Practiced SQL using W3Schools examples.
+
+- SELECT, WHERE, ORDER BY
+- JOIN
+- GROUP BY
+- COUNT and SUM
+
+---
+
+## Repository Structure
+
+- week1_basics → Python fundamentals
+- week1_assignment → assignment tasks and mini project
+- week2_sql → SQL practice
