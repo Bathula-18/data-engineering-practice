@@ -31,8 +31,22 @@ Practiced SQL using W3Schools examples.
 
 ---
 
+## Week 3
+
+Practicing advanced SQL concepts.
+
+- CTE
+- ROW_NUMBER
+- RANK and DENSE_RANK
+- LEAD and LAG
+
+More topics will be added as I continue learning.
+
+---
+
 ## Repository Structure
 
 - week1_basics → Python fundamentals
 - week1_assignment → assignment tasks and mini project
 - week2_sql → SQL practice
+- week3_sql_advanced → advanced SQL concepts
