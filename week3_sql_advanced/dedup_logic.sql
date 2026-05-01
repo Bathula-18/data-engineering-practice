@@ -1,3 +1,4 @@
+-- Deduplication: Keep latest record per transanction using ROW_NUMBER
 -- Latest record per customer
 
 SELECT *
