@@ -33,20 +33,18 @@ Practiced SQL using W3Schools examples.
 
 ## Week 3
 
-Practicing advanced SQL concepts.
+Focused on advanced SQL concepts and real-world scenarios.
 
-- CTE
-- ROW_NUMBER
-- RANK and DENSE_RANK
-- LEAD and LAG
-
-More topics will be added as I continue learning.
-
----
+- Window functions (ROW_NUMBER, RANK, DENSE_RANK)
+- LEAD and LAG for comparison
+- Subqueries and correlated subqueries
+- Deduplication and latest record selection
+- Query optimization basics
+- Index and execution plan understanding
 
 ## Repository Structure
 
 - week1_basics → Python fundamentals
 - week1_assignment → assignment tasks and mini project
 - week2_sql → SQL practice
-- week3_sql_advanced → advanced SQL concepts
+- week3_sql_advanced → advanced SQL concepts and real-world scenarios
